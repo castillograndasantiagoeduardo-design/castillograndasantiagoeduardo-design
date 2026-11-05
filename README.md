@@ -80,6 +80,10 @@ Plataforma ERP y punto de venta multisucursal para cadenas comerciales. Cubre ve
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=castillograndasantiagoeduardo-design&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=castillograndasantiagoeduardo-design&theme=tokyonight&hide_border=true" />
+</p>
+
 ---
 
 <p align="center">Gracias por visitar mi perfil</p>
