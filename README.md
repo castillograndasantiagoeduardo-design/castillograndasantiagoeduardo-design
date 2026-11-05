@@ -1,24 +1,15 @@
 <!-- Encabezado -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A2472,50:1565C0,100:36BCF7&height=240&section=header&text=Santiago%20Castillo&fontSize=64&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Desarrollador%20Web%20Full%20Stack&descSize=24&descAlignY=62" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A2472,50:1565C0,100:36BCF7&height=240&section=header&text=Santiago%20Castillo&fontSize=64&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Desarrollador%20de%20Software%20en%20formaci%C3%B3n&descSize=24&descAlignY=62" width="100%" />
 </p>
 
-<!-- Avatar saludando -->
+<!-- Saludo -->
 <p align="center">
-  <img src="https://images.weserv.nl/?url=avatars.githubusercontent.com/u/228868708&w=170&h=170&fit=cover&mask=circle" width="150" alt="Santiago Castillo" />
-  &nbsp;&nbsp;
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="55" alt="Saludo" />
+  <img src="https://raw.githubusercontent.com/castillograndasantiagoeduardo-design/castillograndasantiagoeduardo-design/main/memoji-saludo.png" width="230" alt="Santiago saludando" />
 </p>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=640&lines=Hola%2C+soy+Santiago+Castillo;Next.js+%7C+React+%7C+TypeScript;Deno+%7C+Hono+%7C+MySQL;Aprendiz+SENA+%7C+ADSO+%7C+Duitama,+Colombia" />
-</p>
-
-<p align="center">
-  <a href="mailto:castillograndasantiagoeduardo@gmail.com"><img src="https://img.shields.io/badge/Email-1565C0?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://instagram.com/sant1xgo_"><img src="https://img.shields.io/badge/Instagram-1565C0?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-  <a href="https://github.com/castillograndasantiagoeduardo-design"><img src="https://img.shields.io/badge/GitHub-1565C0?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <img src="https://img.shields.io/badge/Duitama%2C%20Boyac%C3%A1-0A2472?style=for-the-badge&logo=googlemaps&logoColor=white" />
 </p>
 
 <br>
@@ -69,6 +60,10 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A2472,100:1E90FF&height=55&section=header&text=Proyecto%20destacado&fontSize=26&fontColor=ffffff" width="100%" />
 </p>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/castillograndasantiagoeduardo-design/castillograndasantiagoeduardo-design/main/memoji-proyectos.png" width="190" alt="Santiago programando" />
+</p>
+
 <h3 align="center">
   <a href="https://github.com/castillograndasantiagoeduardo-design/warengine">WarEngine</a>
 </h3>
@@ -110,6 +105,24 @@
 - Autorización de la interfaz según permisos reales de la API
 - Endpoints del backend: roles, resumen del dashboard y usuarios paginados con filtros
 - Seeds de demostración, script de flujo extremo a extremo contra la API real y documentación técnica
+
+<br>
+
+<!-- Redes -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A2472,100:1E90FF&height=55&section=header&text=Conecta%20conmigo&fontSize=26&fontColor=ffffff" width="100%" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/castillograndasantiagoeduardo-design/castillograndasantiagoeduardo-design/main/memoji-redes.png" width="200" alt="Santiago, contáctame" />
+</p>
+
+<p align="center">
+  <a href="mailto:castillograndasantiagoeduardo@gmail.com"><img src="https://img.shields.io/badge/Email-1565C0?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://instagram.com/sant1xgo_"><img src="https://img.shields.io/badge/Instagram-1565C0?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="https://github.com/castillograndasantiagoeduardo-design"><img src="https://img.shields.io/badge/GitHub-1565C0?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <img src="https://img.shields.io/badge/Duitama%2C%20Boyac%C3%A1-0A2472?style=for-the-badge&logo=googlemaps&logoColor=white" />
+</p>
 
 <br>
 
