@@ -1,23 +1,32 @@
 <!-- Encabezado -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=240&section=header&text=Santiago%20Castillo&fontSize=64&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Desarrollador%20Web%20Full%20Stack&descSize=24&descAlignY=62" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A2472,50:1565C0,100:36BCF7&height=240&section=header&text=Santiago%20Castillo&fontSize=64&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Desarrollador%20Web%20Full%20Stack&descSize=24&descAlignY=62" width="100%" />
+</p>
+
+<!-- Avatar saludando -->
+<p align="center">
+  <img src="https://images.weserv.nl/?url=avatars.githubusercontent.com/u/228868708&w=170&h=170&fit=cover&mask=circle" width="150" alt="Santiago Castillo" />
+  &nbsp;&nbsp;
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="55" alt="Saludo" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=640&lines=Next.js+%7C+React+%7C+TypeScript;Deno+%7C+Hono+%7C+MySQL;Arquitectura+limpia+y+c%C3%B3digo+ordenado;Aprendiz+SENA+%7C+ADSO+%7C+Duitama,+Colombia" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=640&lines=Hola%2C+soy+Santiago+Castillo;Next.js+%7C+React+%7C+TypeScript;Deno+%7C+Hono+%7C+MySQL;Aprendiz+SENA+%7C+ADSO+%7C+Duitama,+Colombia" />
 </p>
 
 <p align="center">
-  <a href="mailto:castillograndasantiagoeduardo@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://instagram.com/sant1xgo_"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-  <a href="https://github.com/castillograndasantiagoeduardo-design"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <img src="https://img.shields.io/badge/Ubicaci%C3%B3n-Duitama%2C%20Boyac%C3%A1-0A66C2?style=for-the-badge&logo=googlemaps&logoColor=white" />
+  <a href="mailto:castillograndasantiagoeduardo@gmail.com"><img src="https://img.shields.io/badge/Email-1565C0?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://instagram.com/sant1xgo_"><img src="https://img.shields.io/badge/Instagram-1565C0?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="https://github.com/castillograndasantiagoeduardo-design"><img src="https://img.shields.io/badge/GitHub-1565C0?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <img src="https://img.shields.io/badge/Duitama%2C%20Boyac%C3%A1-0A2472?style=for-the-badge&logo=googlemaps&logoColor=white" />
 </p>
 
 <br>
 
 <!-- Sobre mí -->
-<h2 align="center">Sobre mí</h2>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A2472,100:1E90FF&height=55&section=header&text=Sobre%20m%C3%AD&fontSize=26&fontColor=ffffff" width="100%" />
+</p>
 
 <p align="center">
   Aprendiz del SENA en el tecnólogo en <b>Análisis y Desarrollo de Software (ADSO)</b>.<br>
@@ -37,35 +46,39 @@
 <br>
 
 <!-- Tecnologías -->
-<h2 align="center">Tecnologías y herramientas</h2>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A2472,100:1E90FF&height=55&section=header&text=Tecnolog%C3%ADas%20y%20herramientas&fontSize=26&fontColor=ffffff" width="100%" />
+</p>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,html,css,deno,nodejs,mysql,docker,git,github,vscode&perline=7" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Hono-E36002?style=for-the-badge&logo=hono&logoColor=white" />
-  <img src="https://img.shields.io/badge/Drizzle%20ORM-C5F74F?style=for-the-badge&logo=drizzle&logoColor=black" />
-  <img src="https://img.shields.io/badge/Zod-3E67B1?style=for-the-badge&logo=zod&logoColor=white" />
-  <img src="https://img.shields.io/badge/REST%20API-02569B?style=for-the-badge&logo=postman&logoColor=white" />
-  <img src="https://img.shields.io/badge/MCP-000000?style=for-the-badge&logo=anthropic&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hono-0A2472?style=for-the-badge&logo=hono&logoColor=white" />
+  <img src="https://img.shields.io/badge/Drizzle%20ORM-0A2472?style=for-the-badge&logo=drizzle&logoColor=white" />
+  <img src="https://img.shields.io/badge/Zod-0A2472?style=for-the-badge&logo=zod&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST%20API-0A2472?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/MCP-0A2472?style=for-the-badge&logo=anthropic&logoColor=white" />
 </p>
 
 <br>
 
 <!-- Proyecto -->
-<h2 align="center">Proyecto destacado</h2>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A2472,100:1E90FF&height=55&section=header&text=Proyecto%20destacado&fontSize=26&fontColor=ffffff" width="100%" />
+</p>
 
 <h3 align="center">
   <a href="https://github.com/castillograndasantiagoeduardo-design/warengine">WarEngine</a>
 </h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/ERP%20%2B%20POS-multisucursal-36BCF7?style=flat-square" />
-  <img src="https://img.shields.io/badge/Equipo-4%20desarrolladores-8A2BE2?style=flat-square" />
-  <img src="https://img.shields.io/badge/Next.js-16-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Deno-2.x-70FFAF?style=flat-square&logo=deno&logoColor=black" />
-  <img src="https://img.shields.io/badge/MySQL-8-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/ERP%20%2B%20POS-multisucursal-1565C0?style=flat-square" />
+  <img src="https://img.shields.io/badge/Equipo-4%20desarrolladores-0A2472?style=flat-square" />
+  <img src="https://img.shields.io/badge/Next.js-16-0A2472?style=flat-square&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Deno-2.x-0A2472?style=flat-square&logo=deno&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-8-0A2472?style=flat-square&logo=mysql&logoColor=white" />
 </p>
 
 <p align="center">
@@ -101,22 +114,24 @@
 <br>
 
 <!-- Estadísticas -->
-<h2 align="center">Estadísticas de GitHub</h2>
-
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=castillograndasantiagoeduardo-design&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=castillograndasantiagoeduardo-design&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A2472,100:1E90FF&height=55&section=header&text=Estad%C3%ADsticas%20de%20GitHub&fontSize=26&fontColor=ffffff" width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=castillograndasantiagoeduardo-design&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=castillograndasantiagoeduardo-design&show_icons=true&bg_color=0A2472&title_color=ffffff&text_color=dbeafe&icon_color=36BCF7&border_color=1E90FF&count_private=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=castillograndasantiagoeduardo-design&layout=compact&bg_color=0A2472&title_color=ffffff&text_color=dbeafe&border_color=1E90FF" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=castillograndasantiagoeduardo-design&theme=tokyo-night&hide_border=true&area=true" width="100%" />
+  <img src="https://streak-stats.demolab.com/?user=castillograndasantiagoeduardo-design&background=0A2472&border=1E90FF&stroke=1E90FF&ring=36BCF7&fire=36BCF7&currStreakNum=ffffff&currStreakLabel=36BCF7&sideNums=ffffff&sideLabels=dbeafe&dates=dbeafe" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=castillograndasantiagoeduardo-design&bg_color=0A2472&color=ffffff&line=36BCF7&point=ffffff&area=true&area_color=36BCF7&hide_border=true" width="100%" />
 </p>
 
 <!-- Pie -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A2472,50:1565C0,100:36BCF7&height=120&section=footer" width="100%" />
 </p>
