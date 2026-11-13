@@ -1,6 +1,6 @@
 <!-- Encabezado -->
 <p align="center">
-  <img src="assets/banner.png" width="100%" alt="Santiago Castillo, Desarrollador de Software en formación" />
+  <img src="banner.png" width="100%" alt="Santiago Castillo, Desarrollador de Software en formación" />
 </p>
 
 <!-- Sobre mí -->
@@ -8,7 +8,7 @@
   <tr>
     <td width="50%" valign="top">
       <p align="center">
-        <img src="assets/titulo-sobre-mi.svg" height="62" alt="Sobre mí" />
+        <img src="titulo-sobre-mi.svg" height="62" alt="Sobre mí" />
       </p>
       <p>
         <i>Aprendiz del SENA en el tecnólogo en <b>Análisis y Desarrollo de Software (ADSO)</b>.</i>
@@ -19,7 +19,7 @@
       </p>
     </td>
     <td width="50%" valign="middle">
-      <img src="assets/tabla-habilidades.svg" width="100%" alt="Frontend: Next.js, React, TypeScript y Tailwind CSS 4. Backend: Deno, Hono, MySQL, Drizzle ORM y Zod. Buenas prácticas: Clean Architecture, patrón Result, ramas, pull requests y revisión." />
+      <img src="tabla-habilidades.svg" width="100%" alt="Frontend: Next.js, React, TypeScript y Tailwind CSS 4. Backend: Deno, Hono, MySQL, Drizzle ORM y Zod. Buenas prácticas: Clean Architecture, patrón Result, ramas, pull requests y revisión." />
     </td>
   </tr>
 </table>
@@ -28,12 +28,12 @@
 <table>
   <tr>
     <td width="40%" valign="top" align="center">
-      <img src="assets/titulo-stack.svg" height="62" alt="Stack Tecnológico" />
+      <img src="titulo-stack.svg" height="62" alt="Stack Tecnológico" />
       <br /><br />
-      <img src="assets/stack.svg" width="100%" alt="TypeScript, JavaScript, Deno, MySQL, Next.js, Zod, React, Node.js, HTML, CSS, Git, GitHub, Tailwind CSS, Anthropic, Drizzle ORM y Hono" />
+      <img src="stack.svg" width="100%" alt="TypeScript, JavaScript, Deno, MySQL, Next.js, Zod, React, Node.js, HTML, CSS, Git, GitHub, Tailwind CSS, Anthropic, Drizzle ORM y Hono" />
     </td>
     <td width="60%" valign="top" align="center">
-      <img src="assets/titulo-estadisticas.svg" height="62" alt="Estadísticas" />
+      <img src="titulo-estadisticas.svg" height="62" alt="Estadísticas" />
       <br /><br />
       <img width="100%" src="https://github-readme-stats.vercel.app/api?username=castillograndasantiagoeduardo-design&show_icons=true&bg_color=0d1117&title_color=ffffff&text_color=dbeafe&icon_color=36BCF7&border_color=30363d&count_private=true" alt="Estadísticas de GitHub" />
       <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=castillograndasantiagoeduardo-design&layout=compact&bg_color=0d1117&title_color=ffffff&text_color=dbeafe&border_color=30363d" alt="Lenguajes más usados" />
@@ -47,7 +47,7 @@
   <tr>
     <td width="66%" valign="top">
       <p align="center">
-        <img src="assets/titulo-proyecto.svg" height="62" alt="Proyecto Destacado" />
+        <img src="titulo-proyecto.svg" height="62" alt="Proyecto Destacado" />
       </p>
       <p>
         <a href="https://github.com/castillograndasantiagoeduardo-design/warengine"><b>WarEngine</b></a>
@@ -63,18 +63,18 @@
       </p>
     </td>
     <td width="34%" valign="bottom" align="right">
-      <img src="assets/memoji-proyectos.png" width="260" alt="Santiago programando" />
+      <img src="memoji-proyectos.png" width="260" alt="Santiago programando" />
     </td>
   </tr>
 </table>
 
 <!-- Conecta conmigo -->
 <p align="center">
-  <img src="assets/titulo-conecta.svg" height="62" alt="Conecta conmigo" />
+  <img src="titulo-conecta.svg" height="62" alt="Conecta conmigo" />
 </p>
 
 <p align="center">
-  <img src="assets/memoji-redes.png" width="200" alt="Santiago, contáctame" />
+  <img src="memoji-redes.png" width="200" alt="Santiago, contáctame" />
 </p>
 
 <p align="center">
