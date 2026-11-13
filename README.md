@@ -35,8 +35,8 @@
     <td width="60%" valign="top" align="center">
       <img src="titulo-estadisticas.svg" height="62" alt="Estadísticas" />
       <br /><br />
-      <img width="100%" src="https://github-readme-stats.vercel.app/api?username=castillograndasantiagoeduardo-design&show_icons=true&bg_color=0d1117&title_color=ffffff&text_color=dbeafe&icon_color=36BCF7&border_color=30363d&count_private=true" alt="Estadísticas de GitHub" />
-      <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=castillograndasantiagoeduardo-design&layout=compact&bg_color=0d1117&title_color=ffffff&text_color=dbeafe&border_color=30363d" alt="Lenguajes más usados" />
+      <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=castillograndasantiagoeduardo-design&theme=github_dark" alt="Estadísticas de GitHub" />
+      <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=castillograndasantiagoeduardo-design&theme=github_dark" alt="Lenguajes con más commits" />
       <img width="100%" src="https://streak-stats.demolab.com/?user=castillograndasantiagoeduardo-design&background=0d1117&border=30363d&stroke=30363d&ring=36BCF7&fire=36BCF7&currStreakNum=ffffff&currStreakLabel=36BCF7&sideNums=ffffff&sideLabels=dbeafe&dates=8b949e" alt="Racha de contribuciones" />
     </td>
   </tr>
