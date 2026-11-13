@@ -1,11 +1,6 @@
 <!-- Encabezado -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A2472,50:1565C0,100:36BCF7&height=240&section=header&text=Santiago%20Castillo&fontSize=64&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Desarrollador%20de%20Software%20en%20formaci%C3%B3n&descSize=24&descAlignY=62" width="100%" />
-</p>
-
-<!-- Saludo -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/castillograndasantiagoeduardo-design/castillograndasantiagoeduardo-design/main/memoji-saludo.png" width="230" alt="Santiago saludando" />
+  <img src="https://raw.githubusercontent.com/castillograndasantiagoeduardo-design/castillograndasantiagoeduardo-design/main/banner.png" width="100%" alt="Santiago Castillo, Desarrollador de Software en formación" />
 </p>
 
 <p align="center">
