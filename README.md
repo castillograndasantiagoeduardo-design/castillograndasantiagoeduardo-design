@@ -1,145 +1,85 @@
 <!-- Encabezado -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/castillograndasantiagoeduardo-design/castillograndasantiagoeduardo-design/main/banner.png" width="100%" alt="Santiago Castillo, Desarrollador de Software en formación" />
+  <img src="assets/banner.png" width="100%" alt="Santiago Castillo, Desarrollador de Software en formación" />
 </p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=640&lines=Hola%2C+soy+Santiago+Castillo;Next.js+%7C+React+%7C+TypeScript;Deno+%7C+Hono+%7C+MySQL;Aprendiz+SENA+%7C+ADSO+%7C+Duitama,+Colombia" />
-</p>
-
-<br>
 
 <!-- Sobre mí -->
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <p align="center">
+        <img src="assets/titulo-sobre-mi.svg" height="62" alt="Sobre mí" />
+      </p>
+      <p>
+        <i>Aprendiz del SENA en el tecnólogo en <b>Análisis y Desarrollo de Software (ADSO)</b>.</i>
+      </p>
+      <p>
+        Construyo aplicaciones web completas, desde la interfaz hasta la API y la base de datos,
+        con arquitectura limpia, validación con contratos compartidos y pruebas contra la API real.
+      </p>
+    </td>
+    <td width="50%" valign="middle">
+      <img src="assets/tabla-habilidades.svg" width="100%" alt="Frontend: Next.js, React, TypeScript y Tailwind CSS 4. Backend: Deno, Hono, MySQL, Drizzle ORM y Zod. Buenas prácticas: Clean Architecture, patrón Result, ramas, pull requests y revisión." />
+    </td>
+  </tr>
+</table>
+
+<!-- Stack + Estadísticas -->
+<table>
+  <tr>
+    <td width="40%" valign="top" align="center">
+      <img src="assets/titulo-stack.svg" height="62" alt="Stack Tecnológico" />
+      <br /><br />
+      <img src="assets/stack.svg" width="100%" alt="TypeScript, JavaScript, Deno, MySQL, Next.js, Zod, React, Node.js, HTML, CSS, Git, GitHub, Tailwind CSS, Anthropic, Drizzle ORM y Hono" />
+    </td>
+    <td width="60%" valign="top" align="center">
+      <img src="assets/titulo-estadisticas.svg" height="62" alt="Estadísticas" />
+      <br /><br />
+      <img width="100%" src="https://github-readme-stats.vercel.app/api?username=castillograndasantiagoeduardo-design&show_icons=true&bg_color=0d1117&title_color=ffffff&text_color=dbeafe&icon_color=36BCF7&border_color=30363d&count_private=true" alt="Estadísticas de GitHub" />
+      <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=castillograndasantiagoeduardo-design&layout=compact&bg_color=0d1117&title_color=ffffff&text_color=dbeafe&border_color=30363d" alt="Lenguajes más usados" />
+      <img width="100%" src="https://streak-stats.demolab.com/?user=castillograndasantiagoeduardo-design&background=0d1117&border=30363d&stroke=30363d&ring=36BCF7&fire=36BCF7&currStreakNum=ffffff&currStreakLabel=36BCF7&sideNums=ffffff&sideLabels=dbeafe&dates=8b949e" alt="Racha de contribuciones" />
+    </td>
+  </tr>
+</table>
+
+<!-- Proyecto destacado -->
+<table>
+  <tr>
+    <td width="66%" valign="top">
+      <p align="center">
+        <img src="assets/titulo-proyecto.svg" height="62" alt="Proyecto Destacado" />
+      </p>
+      <p>
+        <a href="https://github.com/castillograndasantiagoeduardo-design/warengine"><b>WarEngine</b></a>
+        — Plataforma de gestión de inventario, facturación y personal con un asistente de IA integrado
+        mediante Model Context Protocol (MCP). Backend en Deno + TypeScript + MySQL Workbench
+        (Clean Architecture), frontend en React + Next.js.
+      </p>
+      <p>
+        <b>Mi aporte</b><br />
+        Panel Super Admin completo con dashboard, usuarios, roles y auditoría<br />
+        Punto de venta para cajeros y módulo B2B<br />
+        Componentes reutilizables y endpoints del backend
+      </p>
+    </td>
+    <td width="34%" valign="bottom" align="right">
+      <img src="assets/memoji-proyectos.png" width="260" alt="Santiago programando" />
+    </td>
+  </tr>
+</table>
+
+<!-- Conecta conmigo -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A2472,100:1E90FF&height=55&section=header&text=Sobre%20m%C3%AD&fontSize=26&fontColor=ffffff" width="100%" />
+  <img src="assets/titulo-conecta.svg" height="62" alt="Conecta conmigo" />
 </p>
 
 <p align="center">
-  Aprendiz del SENA en el tecnólogo en <b>Análisis y Desarrollo de Software (ADSO)</b>.<br>
-  Construyo aplicaciones web completas, desde la interfaz hasta la API y la base de datos,<br>
-  con arquitectura limpia, validación con contratos compartidos y pruebas contra la API real.
-</p>
-
-<div align="center">
-
-| Frontend | Backend | Buenas prácticas |
-|:---:|:---:|:---:|
-| Next.js, React y TypeScript | Deno, Hono y MySQL | Clean Architecture y patrón Result |
-| Tailwind CSS 4 | Drizzle ORM y Zod | Ramas, pull requests y revisión |
-
-</div>
-
-<br>
-
-<!-- Tecnologías -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A2472,100:1E90FF&height=55&section=header&text=Tecnolog%C3%ADas%20y%20herramientas&fontSize=26&fontColor=ffffff" width="100%" />
+  <img src="assets/memoji-redes.png" width="200" alt="Santiago, contáctame" />
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,html,css,deno,nodejs,mysql,docker,git,github,vscode&perline=7" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Hono-0A2472?style=for-the-badge&logo=hono&logoColor=white" />
-  <img src="https://img.shields.io/badge/Drizzle%20ORM-0A2472?style=for-the-badge&logo=drizzle&logoColor=white" />
-  <img src="https://img.shields.io/badge/Zod-0A2472?style=for-the-badge&logo=zod&logoColor=white" />
-  <img src="https://img.shields.io/badge/REST%20API-0A2472?style=for-the-badge&logo=postman&logoColor=white" />
-  <img src="https://img.shields.io/badge/MCP-0A2472?style=for-the-badge&logo=anthropic&logoColor=white" />
-</p>
-
-<br>
-
-<!-- Proyecto -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A2472,100:1E90FF&height=55&section=header&text=Proyecto%20destacado&fontSize=26&fontColor=ffffff" width="100%" />
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/castillograndasantiagoeduardo-design/castillograndasantiagoeduardo-design/main/memoji-proyectos.png" width="190" alt="Santiago programando" />
-</p>
-
-<h3 align="center">
-  <a href="https://github.com/castillograndasantiagoeduardo-design/warengine">WarEngine</a>
-</h3>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/ERP%20%2B%20POS-multisucursal-1565C0?style=flat-square" />
-  <img src="https://img.shields.io/badge/Equipo-4%20desarrolladores-0A2472?style=flat-square" />
-  <img src="https://img.shields.io/badge/Next.js-16-0A2472?style=flat-square&logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Deno-2.x-0A2472?style=flat-square&logo=deno&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-8-0A2472?style=flat-square&logo=mysql&logoColor=white" />
-</p>
-
-<p align="center">
-  Plataforma de gestión para cadenas comerciales: venta de mostrador (B2C) y venta corporativa (B2B)<br>
-  a crédito o contado, inventario multialmacén, personal, activos internos y asistente conversacional con IA.
-</p>
-
-**Funcionalidades**
-
-- **Facturación y POS:** turnos de caja, cobro en efectivo y otros medios, anulación de facturas y devoluciones
-- **Inventario:** catálogo, stock por sucursal, kardex de solo inserción, ajustes, transferencias e importación masiva por CSV
-- **Administración:** sucursales, áreas, empleados, historial de salarios, alertas y dashboard con métricas globales
-- **Seguridad:** JWT, refresh token, roles y permisos, 2FA con TOTP y auditoría transversal
-- **Servidor MCP** para que agentes de IA ejecuten herramientas del sistema
-
-**Arquitectura**
-
-- Monorepo con tres zonas: Backend (Deno), Frontend (Next.js) y Shared (contratos Zod)
-- Backend por capas (shared-kernel, core, database, platform y composition) con un único Composition Root
-- Reglas de negocio sin excepciones, usando Result con errores de dominio
-- Más de 60 archivos de prueba y 30 escenarios HTTP documentados
-
-**Mi aporte**
-
-- Panel Super Admin completo: dashboard global con KPIs, tendencias y ranking; sucursales, áreas y empleados; usuarios y roles; auditoría con exportación CSV; alertas y 2FA
-- Terminal de punto de venta para cajeros: cobro, turnos de caja, stock real por sede y pagos
-- Módulo B2B en el frontend, con totales alineados con el backend
-- Kit de componentes reutilizables: tablas con orden y paginación, formularios con validación Zod, modales, avisos y estados de carga
-- Autorización de la interfaz según permisos reales de la API
-- Endpoints del backend: roles, resumen del dashboard y usuarios paginados con filtros
-- Seeds de demostración, script de flujo extremo a extremo contra la API real y documentación técnica
-
-<br>
-
-<!-- Redes -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A2472,100:1E90FF&height=55&section=header&text=Conecta%20conmigo&fontSize=26&fontColor=ffffff" width="100%" />
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/castillograndasantiagoeduardo-design/castillograndasantiagoeduardo-design/main/memoji-redes.png" width="200" alt="Santiago, contáctame" />
-</p>
-
-<p align="center">
-  <a href="mailto:castillograndasantiagoeduardo@gmail.com"><img src="https://img.shields.io/badge/Email-1565C0?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://instagram.com/sant1xgo_"><img src="https://img.shields.io/badge/Instagram-1565C0?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-  <a href="https://github.com/castillograndasantiagoeduardo-design"><img src="https://img.shields.io/badge/GitHub-1565C0?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <img src="https://img.shields.io/badge/Duitama%2C%20Boyac%C3%A1-0A2472?style=for-the-badge&logo=googlemaps&logoColor=white" />
-</p>
-
-<br>
-
-<!-- Estadísticas -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A2472,100:1E90FF&height=55&section=header&text=Estad%C3%ADsticas%20de%20GitHub&fontSize=26&fontColor=ffffff" width="100%" />
-</p>
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=castillograndasantiagoeduardo-design&show_icons=true&bg_color=0A2472&title_color=ffffff&text_color=dbeafe&icon_color=36BCF7&border_color=1E90FF&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=castillograndasantiagoeduardo-design&layout=compact&bg_color=0A2472&title_color=ffffff&text_color=dbeafe&border_color=1E90FF" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=castillograndasantiagoeduardo-design&background=0A2472&border=1E90FF&stroke=1E90FF&ring=36BCF7&fire=36BCF7&currStreakNum=ffffff&currStreakLabel=36BCF7&sideNums=ffffff&sideLabels=dbeafe&dates=dbeafe" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=castillograndasantiagoeduardo-design&bg_color=0A2472&color=ffffff&line=36BCF7&point=ffffff&area=true&area_color=36BCF7&hide_border=true" width="100%" />
-</p>
-
-<!-- Pie -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A2472,50:1565C0,100:36BCF7&height=120&section=footer" width="100%" />
+  <a href="mailto:castillograndasantiagoeduardo@gmail.com"><img src="https://img.shields.io/badge/Email-1565C0?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://instagram.com/sant1xgo_"><img src="https://img.shields.io/badge/Instagram-1565C0?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+  <a href="https://github.com/castillograndasantiagoeduardo-design"><img src="https://img.shields.io/badge/GitHub-1565C0?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <img src="https://img.shields.io/badge/Duitama%2C%20Boyac%C3%A1-0A2472?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Duitama, Boyacá" />
 </p>
