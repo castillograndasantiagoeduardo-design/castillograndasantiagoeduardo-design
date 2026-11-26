@@ -50,7 +50,7 @@
         <img src="titulo-proyecto.svg" height="62" alt="Proyecto Destacado" />
       </p>
       <p>
-        <a href="https://github.com/castillograndasantiagoeduardo-design/warengine"><b>WarEngine</b></a>
+        <a href="https://github.com/castillograndasantiagoeduardo-design/warengine"><b>Inventa</b></a>
         — Plataforma de gestión de inventario, facturación y personal con un asistente de IA integrado
         mediante Model Context Protocol (MCP). Backend en Deno + TypeScript + MySQL Workbench
         (Clean Architecture), frontend en React + Next.js.
