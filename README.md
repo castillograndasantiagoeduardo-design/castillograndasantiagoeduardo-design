@@ -72,7 +72,7 @@
 <table>
   <tr>
     <td colspan="2" align="center">
-      <img src="https://img.shields.io/badge/Automatizaciones%20y%20MCPs-1E88E5?style=for-the-badge" height="42" alt="Automatizaciones y MCPs" />
+      <img src="titulo-automatizaciones.svg" height="62" alt="Automatizaciones y MCPs" />
       <p>
         Desarrollo servidores <b>Model Context Protocol (MCP)</b> y flujos automatizados para conectar
         modelos de IA con bases de datos, APIs y herramientas de productividad.
@@ -102,7 +102,7 @@
 <table>
   <tr>
     <td colspan="2" align="center">
-      <img src="https://img.shields.io/badge/M%C3%A1s%20Proyectos-1E88E5?style=for-the-badge" height="42" alt="Más Proyectos" />
+      <img src="titulo-proyectos.svg" height="62" alt="Más Proyectos" />
     </td>
   </tr>
   <tr>
