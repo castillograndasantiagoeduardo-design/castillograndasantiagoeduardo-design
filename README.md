@@ -1,4 +1,4 @@
-<!-- Encabezado -->
+ <!-- Encabezado -->
 <p align="center">
   <img src="banner.png" width="100%" alt="Santiago Castillo, Desarrollador de Software en formación" />
 </p>
@@ -83,7 +83,16 @@
     <td width="50%" valign="top">
       <p>
         <b>🔌 <a href="#">mcp-scaffolding</a></b><br />
-        Breve descripción de lo que automatiza, qué herramientas (tools) expone y con qué API o base de datos se conecta.<br />
+     Servidor Model Context Protocol (MCP) desarrollado en TypeScript que automatiza la creación de proyectos en Python y TypeScript/JavaScript bajo Arquitectura Limpia y Hexagonal para entornos Monorepo.
+
+Características
+Implementación en TypeScript con el SDK oficial de MCP.
+
+Generación de estructuras y archivos base para Python y TypeScript/JavaScript.
+
+Separación estándar por capas (domain, application, infrastructure, ports, adapters).
+
+Organización modular nativa para monorepos (apps/, packages/, services/).<br />
         <code>TypeScript</code> · <code>MCP SDK</code> · <code>Deno</code>
       </p>
     </td>
