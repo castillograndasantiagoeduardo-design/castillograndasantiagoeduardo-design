@@ -82,7 +82,7 @@
   <tr>
     <td width="50%" valign="top">
       <p>
-        <b>🔌 <a href="#">Nombre del MCP #1</a></b><br />
+        <b>🔌 <a href="#">mcp-scaffolding</a></b><br />
         Breve descripción de lo que automatiza, qué herramientas (tools) expone y con qué API o base de datos se conecta.<br />
         <code>TypeScript</code> · <code>MCP SDK</code> · <code>Deno</code>
       </p>
