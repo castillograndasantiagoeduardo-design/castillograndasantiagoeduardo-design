@@ -1,0 +1,18 @@
+<svg width="390" height="62" viewBox="0 0 390 62" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg-auto" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#2196F3" />
+      <stop offset="100%" stop-color="#1565C0" />
+    </linearGradient>
+  </defs>
+  
+  <rect x="2" y="8" width="386" height="48" rx="12" fill="#0A2E6E" />
+  
+  <rect x="2" y="3" width="386" height="48" rx="12" fill="url(#bg-auto)" />
+  
+  <text x="195" y="33" font-family="-apple-system, BlinkMacSystemFont, &#39;Segoe UI&#39;, Roboto, Helvetica, Arial, sans-serif" font-size="22" font-weight="700" fill="#FFFFFF" text-anchor="middle" letter-spacing="0.2">
+    Automatizaciones y MCPs
+  </text>
+  
+  <line x1="24" y1="44" x2="366" y2="44" stroke="#90CAF9" stroke-width="2" stroke-linecap="round" stroke-dasharray="1 7" />
+</svg>
