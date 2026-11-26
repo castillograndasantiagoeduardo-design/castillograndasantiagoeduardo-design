@@ -71,65 +71,57 @@
 <!-- Automatizaciones & MCPs -->
 <table>
   <tr>
-    <td width="100%" valign="top">
-      <p align="center">
-        <img src="titulo-automatizaciones.svg" height="62" alt="Automatizaciones y MCPs" />
-      </p>
-      <p align="center">
+    <td colspan="2" align="center">
+      <img src="https://img.shields.io/badge/Automatizaciones%20y%20MCPs-1E88E5?style=for-the-badge" height="42" alt="Automatizaciones y MCPs" />
+      <p>
         Desarrollo servidores <b>Model Context Protocol (MCP)</b> y flujos automatizados para conectar
         modelos de IA con bases de datos, APIs y herramientas de productividad.
       </p>
-      <table>
-        <tr>
-          <td width="50%" valign="top">
-            <p>
-              <b>🔌 <a href="#">Nombre del MCP #1</a></b><br />
-              Breve descripción de lo que automatiza, qué herramientas (tools) expone y con qué API o base de datos se conecta.<br />
-              <code>TypeScript</code> · <code>MCP SDK</code> · <code>Deno</code>
-            </p>
-          </td>
-          <td width="50%" valign="top">
-            <p>
-              <b>⚡ <a href="#">Nombre del MCP #2</a></b><br />
-              Breve descripción de lo que automatiza, qué herramientas (tools) expone y con qué API o base de datos se conecta.<br />
-              <code>Node.js</code> · <code>MCP SDK</code> · <code>Zod</code>
-            </p>
-          </td>
-        </tr>
-        <!-- Copia y pega un nuevo <tr>...</tr> aquí si quieres agregar más MCPs -->
-      </table>
     </td>
   </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <p>
+        <b>🔌 <a href="#">Nombre del MCP #1</a></b><br />
+        Breve descripción de lo que automatiza, qué herramientas (tools) expone y con qué API o base de datos se conecta.<br />
+        <code>TypeScript</code> · <code>MCP SDK</code> · <code>Deno</code>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <p>
+        <b>⚡ <a href="#">Nombre del MCP #2</a></b><br />
+        Breve descripción de lo que automatiza, qué herramientas (tools) expone y con qué API o base de datos se conecta.<br />
+        <code>Node.js</code> · <code>MCP SDK</code> · <code>Zod</code>
+      </p>
+    </td>
+  </tr>
+  <!-- Copia y pega un nuevo <tr>...</tr> aquí si quieres agregar más MCPs -->
 </table>
 
 <!-- Otros Proyectos -->
 <table>
   <tr>
-    <td width="100%" valign="top">
-      <p align="center">
-        <img src="titulo-proyectos.svg" height="62" alt="Más Proyectos" />
-      </p>
-      <table>
-        <tr>
-          <td width="50%" valign="top">
-            <p>
-              <b><a href="#">Nombre del Proyecto #1</a></b><br />
-              Descripción corta del problema que resuelve y su arquitectura principal.<br />
-              <code>Next.js</code> · <code>TypeScript</code> · <code>MySQL</code>
-            </p>
-          </td>
-          <td width="50%" valign="top">
-            <p>
-              <b><a href="#">Nombre del Proyecto #2</a></b><br />
-              Descripción corta del problema que resuelve y su arquitectura principal.<br />
-              <code>Hono</code> · <code>Drizzle ORM</code> · <code>Tailwind CSS</code>
-            </p>
-          </td>
-        </tr>
-        <!-- Copia y pega un nuevo <tr>...</tr> aquí para agregar otra fila de 2 proyectos -->
-      </table>
+    <td colspan="2" align="center">
+      <img src="https://img.shields.io/badge/M%C3%A1s%20Proyectos-1E88E5?style=for-the-badge" height="42" alt="Más Proyectos" />
     </td>
   </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <p>
+        <b><a href="#">Nombre del Proyecto #1</a></b><br />
+        Descripción corta del problema que resuelve y su arquitectura principal.<br />
+        <code>Next.js</code> · <code>TypeScript</code> · <code>MySQL</code>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <p>
+        <b><a href="#">Nombre del Proyecto #2</a></b><br />
+        Descripción corta del problema que resuelve y su arquitectura principal.<br />
+        <code>Hono</code> · <code>Drizzle ORM</code> · <code>Tailwind CSS</code>
+      </p>
+    </td>
+  </tr>
+  <!-- Copia y pega un nuevo <tr>...</tr> aquí para agregar otra fila de 2 proyectos -->
 </table>
 
 <!-- Conecta conmigo -->
