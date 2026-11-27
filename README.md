@@ -50,7 +50,7 @@
         <img src="titulo-proyecto.svg" height="62" alt="Proyecto Destacado" />
       </p>
       <p>
-        <a href="https://github.com/castillograndasantiagoeduardo-design/warengine"><b>Inventa</b></a>
+        <a href="https://github.com/castillograndasantiagoeduardo-design/inventa"><b>Inventa</b></a>
         — Plataforma de gestión de inventario, facturación y personal con un asistente de IA integrado
         mediante Model Context Protocol (MCP). Backend en Deno + TypeScript + MySQL Workbench
         (Clean Architecture), frontend en React + Next.js.
@@ -97,10 +97,10 @@ Organización modular nativa para monorepos (apps/, packages/, services/).<br />
       </p>
     </td>
     <td width="50%" valign="top">
-      <p>
-        <b>⚡ <a href="#">Nombre del MCP #2</a></b><br />
-        Breve descripción de lo que automatiza, qué herramientas (tools) expone y con qué API o base de datos se conecta.<br />
-        <code>Node.js</code> · <code>MCP SDK</code> · <code>Zod</code>
+        <p>
+        <b><a href="https://github.com/castillograndasantiagoeduardo-design/mcp-database-server">mcp-database-server</a></b><br />
+        Servidor MCP universal para bases de datos relacionales (PostgreSQL, MySQL, SQLite y SQL Server). Expone herramientas de introspección de esquemas y mapeo de llaves foráneas para JOINs, consultas SELECT de solo lectura, y un flujo transaccional seguro con doble confirmación humana mediante tokens temporales para operaciones INSERT, UPDATE y DELETE.<br />
+        <code>Python</code> · <code>FastMCP</code> · <code>SQLAlchemy</code> · <code>Pydantic</code>
       </p>
     </td>
   </tr>
