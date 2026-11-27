@@ -30,7 +30,7 @@
     <td width="40%" valign="top" align="center">
       <img src="titulo-stack.svg" height="62" alt="Stack Tecnológico" />
       <br /><br />
-      <img src="stack.svg" width="100%" alt="TypeScript, JavaScript, Deno, MySQL, Next.js, Zod, React, Node.js, HTML, CSS, Git, GitHub, Tailwind CSS, Anthropic, Drizzle ORM y Hono" />
+      <img src="stack.svg" width="100%" alt="TypeScript, JavaScript, Deno, MySQL, Next.js, Zod, React, Node.js, HTML, CSS, Git, GitHub, Tailwind CSS, Anthropic, Drizzle ORM, Phyton y Hono" />
     </td>
     <td width="60%" valign="top" align="center">
       <img src="titulo-estadisticas.svg" height="62" alt="Estadísticas" />
