@@ -81,23 +81,14 @@
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <p>
+          <p>
         <b><a href="https://github.com/castillograndasantiagoeduardo-design/mcp-scaffolding">mcp-scaffolding</a></b><br />
-     Servidor Model Context Protocol (MCP) desarrollado en TypeScript que automatiza la creación de proyectos en Python y TypeScript/JavaScript bajo Arquitectura Limpia y Hexagonal para entornos Monorepo.
-
-Características
-Implementación en TypeScript con el SDK oficial de MCP.
-
-Generación de estructuras y archivos base para Python y TypeScript/JavaScript.
-
-Separación estándar por capas (domain, application, infrastructure, ports, adapters).
-
-Organización modular nativa para monorepos (apps/, packages/, services/).<br />
-        <code>TypeScript</code> · <code>MCP SDK</code> · <code>Deno</code>
+        Servidor MCP desarrollado con Deno que automatiza la generación de proyectos en Python y TypeScript bajo Arquitectura Limpia y Hexagonal. Expone herramientas para inicializar monorepos modulares (apps, packages, services) con desacoplamiento estricto por capas (domain, application, infrastructure, ports y adapters).<br />
+        <code>TypeScript</code> · <code>MCP SDK</code> · <code>Deno</code> · <code>Clean Architecture</code>
       </p>
-    </td>
-    <td width="50%" valign="top">
-        <p>
+     </td>
+     <td width="50%" valign="top">
+         <p>
         <b><a href="https://github.com/castillograndasantiagoeduardo-design/mcp-database-server">mcp-database-server</a></b><br />
         Servidor MCP universal para bases de datos relacionales (PostgreSQL, MySQL, SQLite y SQL Server). Expone herramientas de introspección de esquemas y mapeo de llaves foráneas para JOINs, consultas SELECT de solo lectura, y un flujo transaccional seguro con doble confirmación humana mediante tokens temporales para operaciones INSERT, UPDATE y DELETE.<br />
         <code>Python</code> · <code>FastMCP</code> · <code>SQLAlchemy</code> · <code>Pydantic</code>
